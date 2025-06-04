@@ -1,4 +1,5 @@
 {
+    "name": "gigamel/slon-odr",
     "autoload": {
         "psr-4": {
             "Slon\\ODR\\": "src/"
